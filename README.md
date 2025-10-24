@@ -42,10 +42,9 @@ The dashboard includes **maps, clustered charts, and dynamic labels**, allowing 
 ---
 
 ## 📸 Dashboard Preview
-*(Upload your Tableau dashboard screenshot and replace the path below)*  
 
-![WeWashUSleep Dashboard Preview](# 📈 WeWashUSleep Case Study – Tableau Dashboard
-**Analysing Regional Sales Performance and Marketing ROI**
+![WeWashUSleep Dashboard Preview](WeWashUSleep-1.png)
+![WeWashUSleep Dashboard Preview](WeWashUSleep-2.png)
 
 ---
 
